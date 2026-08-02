@@ -1,3 +1,5 @@
+
+<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/89967a95-9f99-4c56-96fe-88f302e4cec3" />
 # 📚 Data Types in Python
 
 ## What are Data Types?
