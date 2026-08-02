@@ -6,6 +6,7 @@ Certainly! The choice between using **Shell Scripting** and **Python** in DevOps
 Here are some guidelines to help you decide when to use each.
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f110b6b0-eb70-45ff-b124-a99bea2fd32d" />
 
 # 🐚 Use Shell Scripting When
 
