@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="shell-vs-python" src="https://github.com/user-attachments/assets/deca0344-adf2-400e-ad70-3a7e8a94f383" />
 # 🐚 Shell Scripting vs 🐍 Python in DevOps
 
 Certainly! The choice between using **Shell Scripting** and **Python** in DevOps depends on the specific task or problem you're trying to solve. Both have their strengths and are suitable for different scenarios.
